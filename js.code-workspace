@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../style"
+		},
+		{
+			"path": "../svg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "style"
+	}
+}
